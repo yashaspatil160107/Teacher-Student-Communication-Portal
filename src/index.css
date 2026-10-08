@@ -2,7 +2,7 @@
   font-family: 'Segoe UI', Tahoma, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color: #0f172a;
+  color: #25150c;
   background: #f5f7fb;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -23,8 +23,8 @@ body {
   margin: 0;
   min-width: 320px;
   background:
-    radial-gradient(circle at top left, rgba(96, 165, 250, 0.12), transparent 30%),
-    linear-gradient(180deg, #f7f7fb, #eef2ff 25%, #f8fafc 100%);
+    radial-gradient(circle at top left, rgba(187, 10, 16, 0.12), transparent 30%),
+    linear-gradient(180deg, #0e85c0, rgb(51, 48, 106) 25%, #f8fafc 100%);
 }
 
 img {

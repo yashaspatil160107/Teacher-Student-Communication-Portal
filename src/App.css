@@ -80,22 +80,22 @@
   gap: 10px;
   padding: 6px 10px 6px 12px;
   border-radius: 999px;
-  background: rgba(15, 23, 42, 0.05);
-  border: 1px solid rgba(15, 23, 42, 0.06);
+  background: rgba(9, 14, 25, 0.05);
+  border: 1px solid rgba(15, 21, 35, 0.06);
 }
 
 .user-role {
   text-transform: uppercase;
   letter-spacing: 0.12em;
   font-size: 0.68rem;
-  color: #4f46e5;
+  color: #3c30dc;
   font-weight: 700;
 }
 
 .user-name {
   font-size: 0.82rem;
   font-weight: 600;
-  color: #0f172a;
+  color: #0f1013;
 }
 
 .logout-btn {
@@ -110,7 +110,7 @@
 
 .site-footer {
   border-top: 1px solid rgba(15, 23, 42, 0.08);
-  background: #f7f7fb;
+  background: #ededf2;
 }
 
 .footer-wrap {
@@ -139,13 +139,13 @@
   text-transform: uppercase;
   letter-spacing: 0.2em;
   font-size: 0.72rem;
-  color: #5d6a82;
+  color: #596478;
   font-weight: 700;
 }
 
 h1, h2, h3 {
   margin: 0;
-  color: #111827;
+  color: #161b28;
   line-height: 1.1;
 }
 
@@ -506,7 +506,7 @@ p, li, label, input, textarea, select, button, small, span {
 
 .glass-panel,
 .panel {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 253, 253, 0.9);
   border: 1px solid rgba(15, 23, 42, 0.08);
   border-radius: 24px;
   box-shadow: 0 18px 42px rgba(15, 23, 42, 0.04);
